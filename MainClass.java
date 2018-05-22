@@ -2,7 +2,7 @@
 public class MainClass {
 
 	/**
-	 * jni program
+	 * jni program using C++
 	 */
 	public native void print();
 	
