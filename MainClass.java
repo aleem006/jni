@@ -3,6 +3,7 @@ public class MainClass {
 
 	/**
 	 * jni program using C++
+	 * git test
 	 */
 	public native void print();
 	
